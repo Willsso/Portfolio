@@ -4,7 +4,7 @@
 Ho recentemente completato un percorso specializzato come Cybersecurity Analyst con focus su: Penetration Testing, Threat Intelligence e SOC Analysis.
 
 # 🚀 Obiettivo
-L'obiettivo del mio percorso nel mondo della sicurezza informatica è quello di acquisire sempre più esperienza per specializzarmi come pen-tester.
+L'obiettivo del mio percorso nel mondo della sicurezza informatica è quello di acquisire sempre più esperienza per specializzarmi come pentester.
 
 # 🛠️ Progetti
 
